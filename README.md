@@ -1,4 +1,4 @@
-# Culebrita -- Javascript based game
+# Culebrita - Snake -- Javascript based game
 ## Juego de la culebrita | snake game
 ### Instrucciones para jugar | Instructions to play
 1. Abrir archivo htm en browser | Open the htm file in any browser
